@@ -1,3 +1,4 @@
 nodeModules/
-*.txt
-!a.txt
+*.txt //for all text files
+!a.txt //except this text file
+shop.html
